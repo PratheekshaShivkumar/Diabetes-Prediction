@@ -42,6 +42,7 @@ To develop a machine learning model that can accurately predict diabetes risk ba
     - Logistic Regression
 ## 📈 Results
 Accuracy:75%
+
 The trained model predicts whether a patient is diabetic based on the given medical parameters.
 
 ## 🚀 Future Improvements
